@@ -1,0 +1,8 @@
+*2001 SetUp Parameter  0 Error
+*2001 SetUp Parameter  1 Error
+*2001 SetUp Parameter  5 Error
+*2001 SetUp Parameter  27 Error
+IP Installed 192.168.1.207
+Server Poll Incorrect Rate
+Video Source Open Pixels=640 Lines=360
+Sampling Zone OK
